@@ -16,8 +16,8 @@
 
 
 
-| Celulares     | Precios         | <!-- -->      |
-|:-------------:|:---------------:|:-------------:|
-| Iphone        |   Precio        | Cell 3        |
-| Samsung       |   Precio        | Cell 6        |
-| Xioami        |   Precio        | Cell 9        |
+| Celulares     | Precios         | 
+|:-------------:|:---------------:|
+| Iphone        |   Precio        | 
+| Samsung       |   Precio        | 
+| Xioami        |   Precio        | 
