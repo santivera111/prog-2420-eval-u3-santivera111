@@ -78,7 +78,10 @@ dispositivos = [Iphones, Samsumgs, Xiaomi, Xiaomi_X6_Pro, Moto]
 
 #Posterior a esto debo de poder comparar las descripciones de cada uno, por medio de una lista de descripciones
 
+
+
 # Menú interactivo
+#FInalmente realizar un menu con cada una de los celulares disponibles, para poder seleccionarlos, generando otra lista
 def menu():
     while True:
         print("\n--- Menú ---")
@@ -151,40 +154,7 @@ def menu():
 menu()
 
 
-
-
-
-    
-
-
-    
-
-
-
-
-
-
-
-
-
-
-#FInalmente realizar un menu con cada una de los celulares disponibles, para poder seleccionarlos, generando otra lista
-
-
-
-
-
 #Otra opcion es realizar un carrito donde se use la funcion del sum, para sumar los productos del carrito
-
-
-
-
-    
-    
-
-
-
-
 
 
 
