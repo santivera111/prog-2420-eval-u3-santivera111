@@ -24,8 +24,8 @@ Samsumgs = {
     "Nombre": "Samsumg_Galaxy_S23",
     "Precio": "3.800.000",
     "Envio": 5.000,
-    "Descripcion": " GB color verde"
-        "Memoria": "512 GB",
+    "Descripcion": " Este magnifico  combina diseño y potencia, ideal para quienes buscan la mejor experiencia en cada momento. Con su fluidez y velocidad, podrás realizar tus tareas diarias sin interrupciones "
+    "Memoria": "512 GB",
     "Color": ["Azul","Rojo","Negro"],
     "Memoria RAM": " 4GB",
     "Tamaño": "4.5 Pulgadas",
@@ -37,7 +37,7 @@ Xiaomi = {
     "Nombre": "Xiaomi_Pro",
     "Precio": "1.500.000",
     "Envio": 5.000,
-    "Descripcion": "512GB color Negro"
+    "Descripcion": "La elección perfecta para los amantes de la tecnología. Con el Xiaomi Pro, tendrás un aliado confiable para tu día a día, ya sea para trabajar, jugar o disfrutar de contenido multimedia."
         "Memoria": "128 GB",
     "Color": ["Gris","Blanco","Negro"],
     "Memoria RAM": " 4GB",
@@ -48,7 +48,7 @@ Xiaomi_X6_Pro = {
     "Nombre": "Xiaomi_X6_Pro",
     "Precio": "1.500.000",
     "Envio": 5.000,
-    "Descripcion": ""
+    "Descripcion": "Vive una experiencia premium con el Xiaomi X6 Pro. Ideal para quienes buscan un equilibrio entre rendimiento y estilo, este smartphone te permitirá disfrutar de todo tu contenido con una pantalla envolvente y colores vibrantes."
         "Memoria": "512 GB",
     "Color": ["Gris","Blanco","Negro"],
     "Memoria RAM": " 12GB",
@@ -59,7 +59,7 @@ Moto = {
     "Nombre": "Moto_G24",
     "Precio": "1.500.000",
     "Envio": 5.000,
-    "Descripcion": "512GB color Negro"
+    "Descripcion": "La opción perfecta para quienes buscan practicidad y buen rendimiento. El Moto G24 es el compañero ideal para mantenerte al día en tus redes sociales, realizar videollamadas o gestionar tus tareas sin complicaciones."
         "Memoria": "128 GB",
     "Color": ["Gris","Blanco","Negro"],
     "Memoria RAM": " 4GB",
@@ -113,9 +113,9 @@ def Menu1():
 #Otra opcion es realizar un carrito donde se use la funcion del sum, para sumar los productos del carrito
 
 
-    Costo = ("Iphone", "Samsung", "Xiaomi")
+    Costo = ("Iphone", "Samsung", "Xiaomi" Xiaomi_X6_Pro")
     CostoEnvio = ("Samsung","Xiaomi","Iphone")
-    Marca = ("Iphone","Xiaomi","Samsung")
+    Marca = ("Iphone","Xiaomi""Xiaomi_X6_Pro","Samsung")
 
 if __name__ == "Menu1":
     
@@ -124,44 +124,7 @@ if __name__ == "Menu1":
 
 
 
-if __name__ == "__VShore__":
-    VShore()
-
-
-
-
-
-
-
-
-def Menu1():   
-    print("1. Elegista la opcion Costo")
-    print("Elegista la opcion Costo de Envio")
-    print("Elegista la opcion Marca")
-    opcion = int(input("Ingrese opcion"))
-
-
-    Eleccion = input("Ingrese el numero del menu que desea ver n11.Costo\n2 2.Costo de envio\n3 3.Marca")
-    if Eleccion == 1:
-        print(opcion1)
-    elif Eleccion == 2:
-        print(opcion2)
-    else:
-        Eleccion== 3
-        print(opcion3)
-    
-
-
-    
-
-
-    Costo = ("Iphone", "Samsung", "Xiaomi")
-    CostoEnvio = ("Samsung","Xiaomi","Iphone")
-    Marca = ("Iphone","Xiaomi","Samsung")
-
-if __name__ == "Menu1":
-    
-    
+  
 
 
 
