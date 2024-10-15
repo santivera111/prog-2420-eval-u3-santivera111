@@ -69,6 +69,20 @@ Moto = {
 
 
 
+#Comparar las descripicones 
+
+Precios: [('Iphone 13', 2500000), ('Samsumg_Galaxy_S23', 3800000), ('Xiaomi_Pro', 1500000), ('Xiaomi_X6_Pro', 1500000), ('Moto_G24', 1500000)]
+Memorias: [('Iphone 13', 128), ('Samsumg_Galaxy_S23', 512), ('Xiaomi_Pro', 128), ('Xiaomi_X6_Pro', 512), ('Moto_G24', 128)]
+Envios: [('Iphone 13', 5000), ('Samsumg_Galaxy_S23', 5000), ('Xiaomi_Pro', 5000), ('Xiaomi_X6_Pro', 5000), ('Moto_G24', 5000)]
+
+# Mostrar las listas
+print("Precios:", precios)
+print("Memorias:", memorias)
+print("Envíos:", envios)
+
+
+
+
 
 
 
